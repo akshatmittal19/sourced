@@ -16,3 +16,7 @@ pyvis
 
 # UI
 streamlit
+
+# Gemini API
+google-generativeai
+importlib-metadata>=6.0
