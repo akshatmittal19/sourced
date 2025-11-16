@@ -1,0 +1,18 @@
+requests
+python-dotenv
+valyu
+
+# Embeddings
+sentence-transformers
+
+# Graph + similarity
+networkx
+numpy
+scikit-learn
+nltk
+
+# Optional visualization
+pyvis
+
+# UI
+streamlit
